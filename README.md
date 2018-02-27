@@ -3,3 +3,4 @@ Design a Convolution Neural Network (CNN) model named L3BNet, train and validate
 
 Top1 & Top 5 accuracy comparison
 ![image](https://user-images.githubusercontent.com/9976789/36747955-5b8f9c66-1bee-11e8-8018-e2630ded95ee.png)
+![image](https://user-images.githubusercontent.com/9976789/36748309-60ee24c4-1bef-11e8-883e-b042785250dd.png)
